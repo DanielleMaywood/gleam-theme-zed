@@ -25,7 +25,6 @@
                 "error.background": "#292d3e",
                 "error.border": "#ff6262",
                 "modified": "#ffd596",
-                "element.selected": "#ff0000",
                 "panel.background": "#292d3e",
                 "status_bar.background": "#292d3e",
                 "hint": "#b2b2b2",
@@ -50,17 +49,11 @@
                     "attribute": {
                         "color": "#ffd596"
                     },
-                    "parameter": {
-                        "color": "#ff0000"
-                    },
                     "constructor": {
                         "color": "#9ce7ff"
                     },
                     "function": {
                         "color": "#9ce7ff"
-                    },
-                    "field": {
-                        "color": "#ff0000"
                     },
                     "keyword": {
                         "color": "#ffd596"
