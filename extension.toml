@@ -1,7 +1,7 @@
 id = "gleam-theme"
 name = "Gleam Theme"
 schema_version = 1
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Danielle Maywood <danielle@themaywoods.com>"]
 description = "Theme inspired by gleam.run"
 repository = "https://github.com/DanielleMaywood/gleam-theme-zed"
